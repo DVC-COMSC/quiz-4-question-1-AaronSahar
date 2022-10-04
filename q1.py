@@ -1,5 +1,4 @@
 numbers = []
-highest = 0
 cluster = 0
 for i in range(10):
     numbers.append(int(input("Enter an integer")))
